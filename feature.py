@@ -1,3 +1,3 @@
 # FINISHED!!!
 def dummy_function():
-    pass
+    return 5
